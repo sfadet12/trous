@@ -4,8 +4,8 @@ blah
 blah
 blah
 blah
-Je m'appelle ___.
-Hier soir, je suis allé à ___ et j'y ai rencontré ___.
+Je m'appelle bob.
+Hier soir, je suis allé à la mer et j'y ai rencontré un requin.
 blah
 blah
 blah
@@ -16,8 +16,8 @@ blah
 blah
 blah
 blah
-En chemin, ___ m'a cogné la tête avant de me voler ___.
-Depuis, je ne sais plus coder qu'en ___.
+En chemin, jerome m'a cogné la tête avant de me voler mes mots de passe.
+Depuis, je ne sais plus coder qu'en utilisant la souris.
 blah
 blah
 blah
